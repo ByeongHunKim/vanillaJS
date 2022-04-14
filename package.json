@@ -1,0 +1,19 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "description": "basic HTML, CSS and Javascript project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByeongHunKim/vanillaJS.git"
+  },
+  "author": "ByeongHunKim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByeongHunKim/vanillaJS/issues"
+  },
+  "homepage": "https://github.com/ByeongHunKim/vanillaJS#readme"
+}
